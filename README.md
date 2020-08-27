@@ -1,7 +1,7 @@
 # FEM
 Finite Element Mesh
 
- Mesh (FEM) Generation in SMS software <br/>
+ <u>Mesh (FEM) Generation in SMS software</u> <br/>
   STEP1: Import xyz file and display <br/>
   STEP2: Creation of Coastline (.cst) and Scatter Point (.pts) files <br/>
   STEP3: ARC CLEAN and Attribute Assignment (Land  / Ocean) <br/>
